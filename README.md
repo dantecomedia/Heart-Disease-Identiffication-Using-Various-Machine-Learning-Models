@@ -15,7 +15,7 @@ Bad Heart Rhythms </b>
 Heart disease is the biggest killer of both men and women in the United States, England, Wales, and Canada. For example, heart disease causes 4 out of every 10 deaths in the United States.This is more than all kinds of cancer put together. Also, one person dies of heart disease about every minute in the United States alone.
 
 Attributes and what does they resemble
-age: Age of patient
+<li>age: Age of patient
 sex:Sex, 1 for male
 cp:chest pain
 trestbps:resting blood pressure,more than 120 over 80 and less than 140 over 90 (120/80-140/90): You have a normal blood pressure reading but it is a little higher than it should be, and you should try to lower it. Make healthy changes to your lifestyle.
@@ -29,3 +29,4 @@ slope:slope of peak exercise ST
 ca:number of major vessel
 thal:no explanation provided, but probably thalassemia (3 normal; 6 fixed defect; 7 reversable defect)
 result:(1 anomality) num diagnosis of heart disease (angiographic disease status)
+</li>
